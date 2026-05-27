@@ -1,9 +1,0 @@
-.calculator{
-width:200px;
-display:grid;
-gap:5px;
-}
-
-button{
-height:40px;
-}
